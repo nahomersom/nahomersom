@@ -1,5 +1,5 @@
 # 💫 About Me:
-Frontend  and flutter mobile app developer
+Creative Frontend and Mobile app developer offering high impact mobile and web app solutions. I have experience with Flutter and Angular Framework.
 
 
 ## 🌐 Socials:
